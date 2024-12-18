@@ -1,0 +1,13 @@
+{
+  "name": "jupgrid",
+  "module": "src/index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "@jup-ag/api": "^6.0.32",
+    "@solana/web3.js": "^1.98.0"
+  }
+}
