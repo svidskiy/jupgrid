@@ -8,6 +8,8 @@
   },
   "dependencies": {
     "@jup-ag/api": "^6.0.32",
-    "@solana/web3.js": "^1.98.0"
+    "@solana/web3.js": "^1.98.0",
+    "big.js": "^6.2.2",
+    "ethers": "^6.13.4"
   }
 }
